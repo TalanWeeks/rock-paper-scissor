@@ -1,0 +1,25 @@
+.body{
+  max-height: 100vh;
+}
+
+.bg-img{
+  background-image: url(https://th.bing.com/th/id/R.a75b79e4468eaf7b284445366e7644ce?rik=kUL9Tg4DjFw2YA&pid=ImgRaw&r=0);
+  background-size: cover;
+  min-height: 100vh;
+}
+
+
+.card-body{
+  padding: .5rem !important;
+}
+
+.custom-font1{
+  font-family: 'Copperplate Gothic', cursive;
+}
+.custom-font2{
+  font-family: 'Times New Roman', cursive;
+}
+
+.custom-text-size{
+  font-size: 50px !important;
+}
