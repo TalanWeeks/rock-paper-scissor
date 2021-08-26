@@ -1,5 +1,5 @@
 .body{
-  max-height: 100vh;
+  max-height: 50vh;
 }
 
 .bg-img{
@@ -21,5 +21,5 @@
 }
 
 .custom-text-size{
-  font-size: 50px !important;
+  font-size: 60px !important;
 }
